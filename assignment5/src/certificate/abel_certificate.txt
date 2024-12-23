@@ -1,0 +1,8 @@
+*** Certifying Authority: Perk, Inc. ***
+User ID: Abel
+EG Public Key: 8534857
+Encryption Scheme: El Gamal
+Encryption Parameters: See published Perk, Inc. params
+Expires: Never
+***END***
+uD8gx+hGxTkT7nhNbq8ymPmrmoUFEUr7XU4v2Eke6U1wvUVKpCedYQqgAtYb7QWzWZhHuiNEpL5kBxLAccZgF4Zl42EkSkM2x5JvrQjNXRc80XUSuksV0xcxPpJXrMXbaBqNI/k8f0ouAdvv83d/1zOeCdtZGfNSpIZvwQuuXe8axCBZLpTom86LGy6kVRnE5SrFcl2PUpXz/IvmUj6PCb/St9qWjAFBR8fhlbOAhoHih3oAFGDBhrWeClD5TwHjqDuP/SxoR30u2dDgPTCp36ox28B0oMgpndAeczCEHDENx8g3MpK0ZUYPEHPv9F7+oNsFWPDv07ZBFk42B4GIZg==

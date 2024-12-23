@@ -1,0 +1,6 @@
+*** Certifying Authority: Perk, Inc. ***
+p: 100035179
+alpha: 22055634
+Encryption Scheme: El Gamal
+***END***
+Jf8YPYrzrulKNwl/5SdK8rxD+GrbuLBbeKwIH9Y8fTRjNQUeINJZiUBLaCe5ygQCU+787t9AJiqjPp5b6ARhNQToFyG5CCW9N7fOuzdP5VpuejgTxKAeSlFmr0L4ECrf0G6F2cfrnqOc0NIwz5RVjA7XUJMIsJNmg+dQAnYFAbphpjFLnJzFgKMo2tRSM0RDs+BwVzZH4WFGdg2WgAOxkQL2b3Jf5cI2Et+h5uztFYFpoWqXwrBPRljPEogQnMtXSykA6GNoLtz83PFfMp7p4q9U/l+ED6WmdMGSpdjvytbSSW634H50ZHiUD5a8wVjHOqFsIhCL9sVA7jZzrPmcpw==
